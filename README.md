@@ -3,22 +3,7 @@
 </p>
 <p align="center">
 <a href=""><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
-<a href=""><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href=""><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-<a href=""><img title="Ipdrone" src="https://user-images.githubusercontent.com/49580304/96668887-f96ce580-1310-11eb-9849-2ee012aecdf5.jpg"></a>
-</p>
-<p align="center">
-<a href="https://github.com/AmanPandey-7647"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/AmanPandey-7647"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-<p align="center">
-<a href="https://github.com/AmanPandey-7647"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/AmanPandey-7647"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/AmanPandey-7647"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/ipdrone?color=red&style=flat-square"></a>
-<a href="https://github.com/AmanPandey-7647"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/ipdrone?color=red&style=flat-square"></a>
-<a href="https://github.com/AmanPandey-7647"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/ipdrone?label=Watchers&color=blue&style=flat-square"></a>
+
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
