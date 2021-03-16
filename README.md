@@ -39,7 +39,7 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 * `pkg install git -y`
 * `pip install lolcat`
 * `pip install requests`
-* `git clone https://github.com/noob-hackers/ipdrone`
+* `git clone https://github.com/amanpandey7647/IP-Tracking-Accurate`
 * `cd $HOME`
 * `ls`
 * `cd ipdrone`
